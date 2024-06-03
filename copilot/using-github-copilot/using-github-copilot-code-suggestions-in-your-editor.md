@@ -1,5 +1,5 @@
 ---
-title: Using GitHub Copilot code suggestions in your editor
+title: Using GitHub Copilot code suggestions in your editor!
 shortTitle: Get code suggestions
 intro: 'Use {% data variables.product.prodname_copilot %} to get code suggestions in your editor.'
 redirect_from:
@@ -26,7 +26,7 @@ topics:
 
 ## About {% data variables.product.prodname_copilot %} and JetBrains IDEs
 
-This guide demonstrates how to get coding suggestions from {% data variables.product.prodname_copilot %} in a JetBrains IDE. To see instructions for other popular coding environments, use the tool switcher at the top of the page.
+This guide!! demonstrates how to get coding suggestions from {% data variables.product.prodname_copilot %} in a JetBrains IDE. To see instructions for other popular coding environments, use the tool switcher at the top of the page.
 
 The examples in this guide use Java, however other languages will work similarly. {% data reusables.copilot.supported-languages %}
 
